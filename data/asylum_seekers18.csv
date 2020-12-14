@@ -1,0 +1,265 @@
+,Country Name,Country Code,year,asylum_seekers
+0,Aruba,ABW,2018,
+1,Afghanistan,AFG,2018,2681267.0
+2,Angola,AGO,2018,8243.0
+3,Albania,ALB,2018,13512.0
+4,Andorra,AND,2018,
+5,Arab World,ARB,2018,8933134.0
+6,United Arab Emirates,ARE,2018,169.0
+7,Argentina,ARG,2018,112.0
+8,Armenia,ARM,2018,11040.0
+9,American Samoa,ASM,2018,
+10,Antigua and Barbuda,ATG,2018,107.0
+11,Australia,AUS,2018,10.0
+12,Austria,AUT,2018,24.0
+13,Azerbaijan,AZE,2018,11246.0
+14,Burundi,BDI,2018,387850.0
+15,Belgium,BEL,2018,50.0
+16,Benin,BEN,2018,659.0
+17,Burkina Faso,BFA,2018,11447.0
+18,Bangladesh,BGD,2018,21023.0
+19,Bulgaria,BGR,2018,620.0
+20,Bahrain,BHR,2018,540.0
+21,"Bahamas, The",BHS,2018,421.0
+22,Bosnia and Herzegovina,BIH,2018,16956.0
+23,Belarus,BLR,2018,3526.0
+24,Belize,BLZ,2018,68.0
+25,Bermuda,BMU,2018,
+26,Bolivia,BOL,2018,502.0
+27,Brazil,BRA,2018,1038.0
+28,Barbados,BRB,2018,211.0
+29,Brunei Darussalam,BRN,2018,
+30,Bhutan,BTN,2018,7100.0
+31,Botswana,BWA,2018,289.0
+32,Central African Republic,CAF,2018,590858.0
+33,Canada,CAN,2018,81.0
+34,Central Europe and the Baltics,CEB,2018,33864.0
+35,Switzerland,CHE,2018,5.0
+36,Channel Islands,CHI,2018,
+37,Chile,CHL,2018,479.0
+38,China,CHN,2018,212039.0
+39,Cote d'Ivoire,CIV,2018,38316.0
+40,Cameroon,CMR,2018,45118.0
+41,"Congo, Dem. Rep.",COD,2018,720302.0
+42,"Congo, Rep.",COG,2018,13354.0
+43,Colombia,COL,2018,138583.0
+44,Comoros,COM,2018,624.0
+45,Cabo Verde,CPV,2018,10.0
+46,Costa Rica,CRI,2018,207.0
+47,Caribbean small states,CSS,2018,6356.0
+48,Cuba,CUB,2018,5488.0
+49,Curacao,CUW,2018,35.0
+50,Cayman Islands,CYM,2018,6.0
+51,Cyprus,CYP,2018,7.0
+52,Czech Republic,CZE,2018,1236.0
+53,Germany,DEU,2018,61.0
+54,Djibouti,DJI,2018,2124.0
+55,Dominica,DMA,2018,36.0
+56,Denmark,DNK,2018,
+57,Dominican Republic,DOM,2018,472.0
+58,Algeria,DZA,2018,4186.0
+59,East Asia & Pacific (excluding high income),EAP,2018,1728631.0
+60,Early-demographic dividend,EAR,2018,8911634.0
+61,East Asia & Pacific,EAS,2018,1729048.0
+62,Europe & Central Asia (excluding high income),ECA,2018,335571.0
+63,Europe & Central Asia,ECS,2018,369424.0
+64,Ecuador,ECU,2018,1424.0
+65,"Egypt, Arab Rep.",EGY,2018,24850.0
+66,Euro area,EMU,2018,2230.0
+67,Eritrea,ERI,2018,507260.0
+68,Spain,ESP,2018,46.0
+69,Estonia,EST,2018,281.0
+70,Ethiopia,ETH,2018,92232.0
+71,European Union,EUU,2018,34374.0
+72,Fragile and conflict affected situations,FCS,2018,17786179.0
+73,Finland,FIN,2018,5.0
+74,Fiji,FJI,2018,675.0
+75,France,FRA,2018,59.0
+76,Faroe Islands,FRO,2018,
+77,"Micronesia, Fed. Sts.",FSM,2018,
+78,Gabon,GAB,2018,342.0
+79,United Kingdom,GBR,2018,84.0
+80,Georgia,GEO,2018,6983.0
+81,Ghana,GHA,2018,18071.0
+82,Gibraltar,GIB,2018,
+83,Guinea,GIN,2018,23493.0
+84,"Gambia, The",GMB,2018,17237.0
+85,Guinea-Bissau,GNB,2018,2043.0
+86,Equatorial Guinea,GNQ,2018,140.0
+87,Greece,GRC,2018,107.0
+88,Grenada,GRD,2018,96.0
+89,Greenland,GRL,2018,
+90,Guatemala,GTM,2018,19128.0
+91,Guam,GUM,2018,
+92,Guyana,GUY,2018,283.0
+93,High income,HIC,2018,40581.0
+94,"Hong Kong SAR, China",HKG,2018,11.0
+95,Honduras,HND,2018,18857.0
+96,Heavily indebted poor countries (HIPC),HPC,2018,7375253.0
+97,Croatia,HRV,2018,24105.0
+98,Haiti,HTI,2018,27517.0
+99,Hungary,HUN,2018,3927.0
+100,IBRD only,IBD,2018,1844442.0
+101,IDA & IBRD total,IBT,2018,19836854.0
+102,IDA total,IDA,2018,17992412.0
+103,IDA blend,IDB,2018,497465.0
+104,Indonesia,IDN,2018,12148.0
+105,IDA only,IDX,2018,17494947.0
+106,Isle of Man,IMN,2018,
+107,India,IND,2018,9586.0
+108,Not classified,INX,2018,
+109,Ireland,IRL,2018,
+110,"Iran, Islamic Rep.",IRN,2018,129941.0
+111,Iraq,IRQ,2018,372332.0
+112,Iceland,ISL,2018,5.0
+113,Israel,ISR,2018,492.0
+114,Italy,ITA,2018,69.0
+115,Jamaica,JAM,2018,2448.0
+116,Jordan,JOR,2018,2426.0
+117,Japan,JPN,2018,42.0
+118,Kazakhstan,KAZ,2018,2520.0
+119,Kenya,KEN,2018,7480.0
+120,Kyrgyz Republic,KGZ,2018,2934.0
+121,Cambodia,KHM,2018,12139.0
+122,Kiribati,KIR,2018,
+123,St. Kitts and Nevis,KNA,2018,58.0
+124,"Korea, Rep.",KOR,2018,274.0
+125,Kuwait,KWT,2018,1251.0
+126,Latin America & Caribbean (excluding high income),LAC,2018,289366.0
+127,Lao PDR,LAO,2018,6943.0
+128,Lebanon,LBN,2018,5621.0
+129,Liberia,LBR,2018,5508.0
+130,Libya,LBY,2018,13868.0
+131,St. Lucia,LCA,2018,1025.0
+132,Latin America & Caribbean,LCN,2018,291071.0
+133,Least developed countries: UN classification,LDC,2018,10766888.0
+134,Low income,LIC,2018,16154832.0
+135,Liechtenstein,LIE,2018,
+136,Sri Lanka,LKA,2018,113955.0
+137,Lower middle income,LMC,2018,2568476.0
+138,Low & middle income,LMY,2018,19916333.0
+139,Lesotho,LSO,2018,6.0
+140,Late-demographic dividend,LTE,2018,975189.0
+141,Lithuania,LTU,2018,66.0
+142,Luxembourg,LUX,2018,
+143,Latvia,LVA,2018,152.0
+144,"Macao SAR, China",MAC,2018,
+145,St. Martin (French part),MAF,2018,
+146,Morocco,MAR,2018,3873.0
+147,Monaco,MCO,2018,5.0
+148,Moldova,MDA,2018,2397.0
+149,Madagascar,MDG,2018,298.0
+150,Maldives,MDV,2018,74.0
+151,Middle East & North Africa,MEA,2018,7351474.0
+152,Mexico,MEX,2018,12870.0
+153,Marshall Islands,MHL,2018,7.0
+154,Middle income,MIC,2018,3761501.0
+155,North Macedonia,MKD,2018,1721.0
+156,Mali,MLI,2018,158267.0
+157,Malta,MLT,2018,5.0
+158,Myanmar,MMR,2018,1145149.0
+159,Middle East & North Africa (excluding high income),MNA,2018,7347453.0
+160,Montenegro,MNE,2018,715.0
+161,Mongolia,MNG,2018,2249.0
+162,Northern Mariana Islands,MNP,2018,
+163,Mozambique,MOZ,2018,57.0
+164,Mauritania,MRT,2018,37050.0
+165,Mauritius,MUS,2018,156.0
+166,Malawi,MWI,2018,472.0
+167,Malaysia,MYS,2018,817.0
+168,North America,NAC,2018,414.0
+169,Namibia,NAM,2018,1331.0
+170,New Caledonia,NCL,2018,
+171,Niger,NER,2018,2715.0
+172,Nigeria,NGA,2018,276834.0
+173,Nicaragua,NIC,2018,1671.0
+174,Netherlands,NLD,2018,41.0
+175,Norway,NOR,2018,5.0
+176,Nepal,NPL,2018,8589.0
+177,Nauru,NRU,2018,
+178,New Zealand,NZL,2018,34.0
+179,OECD members,OED,2018,230679.0
+180,Oman,OMN,2018,42.0
+181,Other small states,OSS,2018,33354.0
+182,Pakistan,PAK,2018,132249.0
+183,Panama,PAN,2018,44.0
+184,Peru,PER,2018,2579.0
+185,Philippines,PHL,2018,520.0
+186,Palau,PLW,2018,
+187,Papua New Guinea,PNG,2018,424.0
+188,Poland,POL,2018,1085.0
+189,Pre-demographic dividend,PRE,2018,9918962.0
+190,Puerto Rico,PRI,2018,
+191,"Korea, Dem. People’s Rep.",PRK,2018,797.0
+192,Portugal,PRT,2018,20.0
+193,Paraguay,PRY,2018,73.0
+194,West Bank and Gaza,PSE,2018,100728.0
+195,Pacific island small states,PSS,2018,747.0
+196,Post-demographic dividend,PST,2018,150937.0
+197,French Polynesia,PYF,2018,
+198,Qatar,QAT,2018,30.0
+199,Romania,ROU,2018,1155.0
+200,Russian Federation,RUS,2018,61457.0
+201,Rwanda,RWA,2018,247469.0
+202,South Asia,SAS,2018,2973843.0
+203,Saudi Arabia,SAU,2018,1492.0
+204,Sudan,SDN,2018,724787.0
+205,Senegal,SEN,2018,18208.0
+206,Singapore,SGP,2018,46.0
+207,Solomon Islands,SLB,2018,33.0
+208,Sierra Leone,SLE,2018,4846.0
+209,El Salvador,SLV,2018,32562.0
+210,San Marino,SMR,2018,
+211,Somalia,SOM,2018,949637.0
+212,Serbia,SRB,2018,32368.0
+213,Sub-Saharan Africa (excluding high income),SSA,2018,7241469.0
+214,South Sudan,SSD,2018,2285301.0
+215,Sub-Saharan Africa,SSF,2018,7241640.0
+216,Small states,SST,2018,40457.0
+217,Sao Tome and Principe,STP,2018,31.0
+218,Suriname,SUR,2018,22.0
+219,Slovak Republic,SVK,2018,1218.0
+220,Slovenia,SVN,2018,19.0
+221,Sweden,SWE,2018,16.0
+222,Eswatini,SWZ,2018,237.0
+223,Sint Maarten (Dutch part),SXM,2018,
+224,Seychelles,SYC,2018,15.0
+225,Syrian Arab Republic,SYR,2018,6654374.0
+226,Turks and Caicos Islands,TCA,2018,14.0
+227,Chad,TCD,2018,10895.0
+228,East Asia & Pacific (IDA & IBRD countries),TEA,2018,1727834.0
+229,Europe & Central Asia (IDA & IBRD countries),TEC,2018,361916.0
+230,Togo,TGO,2018,8029.0
+231,Thailand,THA,2018,183.0
+232,Tajikistan,TJK,2018,1695.0
+233,Turkmenistan,TKM,2018,457.0
+234,Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,284896.0
+235,Timor-Leste,TLS,2018,12.0
+236,Middle East & North Africa (IDA & IBRD countries),TMN,2018,7246725.0
+237,Tonga,TON,2018,32.0
+238,South Asia (IDA & IBRD),TSA,2018,2973843.0
+239,Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,7241640.0
+240,Trinidad and Tobago,TTO,2018,323.0
+241,Tunisia,TUN,2018,1985.0
+242,Turkey,TUR,2018,68900.0
+243,Tuvalu,TUV,2018,
+244,Tanzania,TZA,2018,723.0
+245,Uganda,UGA,2018,7034.0
+246,Ukraine,UKR,2018,93248.0
+247,Upper middle income,UMC,2018,1193025.0
+248,Uruguay,URY,2018,7.0
+249,United States,USA,2018,333.0
+250,Uzbekistan,UZB,2018,3276.0
+251,St. Vincent and the Grenadines,VCT,2018,1258.0
+252,"Venezuela, RB",VEN,2018,21047.0
+253,British Virgin Islands,VGB,2018,
+254,Virgin Islands (U.S.),VIR,2018,
+255,Vietnam,VNM,2018,334464.0
+256,Vanuatu,VUT,2018,
+257,World,WLD,2018,25905096.0
+258,Samoa,WSM,2018,
+259,Kosovo,XKX,2018,
+260,"Yemen, Rep.",YEM,2018,31145.0
+261,South Africa,ZAF,2018,482.0
+262,Zambia,ZMB,2018,266.0
+263,Zimbabwe,ZWE,2018,15618.0
